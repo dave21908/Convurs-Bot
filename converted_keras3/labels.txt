@@ -1,0 +1,3 @@
+0 Ikan Koi
+1 Ikan Mujair
+2 Ikan Badut
